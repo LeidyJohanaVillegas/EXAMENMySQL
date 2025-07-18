@@ -2,7 +2,6 @@
 Realiza las tareas descritas a continuación. Asegúrate de documentar cada paso y explicar las decisiones tomadas en el desarrollo de cada consulta, procedimiento, función, trigger y evento.
 
 
-
 Base de Datos e Inserciones: Enlace.
 
 Requerimientos del Examen
