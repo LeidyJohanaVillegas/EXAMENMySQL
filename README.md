@@ -72,7 +72,7 @@ El README.md debe incluir una descripción detallada del examen, instrucciones p
 2. Estructura del Repositorio:
 
 El repositorio debe estar organizado de la siguiente manera:
-
+```
 ddl.sql (Creación de base de datos con tablas y relaciones)
 dml.sql (inserciones de datos)
 dql_select.sql (Consultas)
@@ -81,6 +81,7 @@ dql_triggers.sql (triggers)
 dql_eventos.sql (eventos)
 Readme.md
 Diagrama.jpg (Modelo de datos)
+```
 
 3. Contenido del README.md:
 
