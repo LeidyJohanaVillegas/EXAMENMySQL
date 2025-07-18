@@ -1,3 +1,4 @@
+```
 CREATE DATABASE sakilacampus;
 USE sakilacampus;
 
@@ -159,3 +160,4 @@ CREATE TABLE IF NOT EXISTS film_text (
     title VARCHAR(255),
     description TEXT
 );
+```
